@@ -1,0 +1,2 @@
+# Credenciais do banco (use config/Database.example.php como modelo)
+config/Database.php
